@@ -12,6 +12,7 @@
 + [Authors Info](#author-Info)
 ## Description
 This is my portfolio which is a compilation of my, skills, qualifications, education, training and experiences.
+## Design
 [Design](https://www.figma.com/file/XMiDOoF4BPh03RseuO25j3/Portfolio?node-id=9%3A16)
 ***
 ## Installation
