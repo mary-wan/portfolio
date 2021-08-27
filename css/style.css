@@ -7,14 +7,16 @@ header{
     left: 0px;
     background-color: rgb(0, 0, 0,0.7);
     height: 100%;
+    line-height: 40px;
     width: 160px;
     display: block;
     position: fixed;
     overflow: hidden;  
     float: left;
+    
 }
 ul{
-    margin-top: 70px;
+    margin-top: 40px;
 }
 nav li{
     list-style-type: none;
