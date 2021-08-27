@@ -70,3 +70,10 @@ h2{
     margin-top: 20px;    
 }
 /* about page */
+.time{
+    font-weight: bold;
+}
+.description{
+    margin-left: 20px;
+    
+}
