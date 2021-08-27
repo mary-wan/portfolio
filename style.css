@@ -32,6 +32,9 @@ nav a{
    font-size: 14px;
    
 }
+a{
+    text-decoration: none;
+}
 a:hover{
     color: orange;
 }
@@ -58,9 +61,13 @@ main img{
 h3{
     font-family: 'Aladin', cursive;
 }
+h2{
+    font-weight: 900;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+}
 /* Project page */
 #proj{
     padding-left: 70px;
-    margin-top: 20px;
-    
+    margin-top: 20px;   
 }
