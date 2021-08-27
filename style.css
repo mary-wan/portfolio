@@ -15,6 +15,7 @@ header{
     display: block;
     position: fixed;
     overflow: hidden;  
+    float: left;
 }
 ul{
     margin-top: 70px;
@@ -34,10 +35,7 @@ nav a{
 a:hover{
     color: orange;
 }
-main{
-    margin: 0 200px 0 200px;
-    text-align: center;
-}
+
 h1{
     font-family: 'Aladin', cursive;
     /* letter-spacing: 0.1em; */
@@ -50,6 +48,10 @@ main img{
 }
 .container{
     margin-top: 50px;
+    float: right;
+}
+#profile{
+    text-align: center;
 }
 h2{
     font-family: 'Aladin', cursive;
