@@ -28,9 +28,9 @@ This is my portfolio which is a compilation of my, skills, qualifications, educa
 ## Technology Used
 * HTML - which was used to build the structure of the pages.
 * CSS - which was used to style the pages 
-* JS - for interactivity
+
 ****
-[Go Back to the top](#Portfolio
+[Go Back to the top](#Portfolio)
 ## Licence
 MIT License
 
