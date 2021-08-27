@@ -1,5 +1,5 @@
 *{
-    font-family: 'Poppins', sans-serif;
+    
     font-weight: normal;
 }
 body{
@@ -69,6 +69,6 @@ h2{
 }
 /* Project page */
 #proj{
-    padding-left: 70px;
+    padding-left: 100px;
     margin-top: 20px;    
 }
